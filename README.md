@@ -1,4 +1,4 @@
-# expo-location-example
+# [expo-location-example](https://expo.io/@martincarrera/location-example)
 Simple example using [expo](https://expo.io) and [react-native](https://facebook.github.io/react-native/) to show user location on a map.
 
 ## Pre requisites
