@@ -1,6 +1,6 @@
 {
   "name": "location-example",
-  "description": "An empty new project",
+  "description": "Simple expo app to show user location on a map",
   "slug": "location-example",
   "privacy": "public",
   "sdkVersion": "16.0.0",
